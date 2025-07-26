@@ -7,7 +7,7 @@ This is my **personal portfolio website**, built using **HTML**, **CSS**, and **
 
 ## 🌐 Live Demo
 
-🔗 [View Live Website]([https://your-portfolio-live-link.com](https://akshai-krishna-2003.netlify.app/))
+🔗 [View Live Website](https://akshai-krishna-2003.netlify.app/))
 
 ---
 
