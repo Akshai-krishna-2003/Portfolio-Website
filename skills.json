@@ -1,90 +1,114 @@
 [
-    {
-        "name": "Python",
-        "icon": "https://img.icons8.com/?size=100&id=13441&format=png&color=000000"
-    },
-    {
-        "name": "C++",
-        "icon": "https://img.icons8.com/?size=100&id=tmthf8xybKpa&format=png&color=000000"
-    },
-    {
-        "name": "Java",
-        "icon": "https://img.icons8.com/?size=100&id=13679&format=png&color=000000"
-    },
-    {
-        "name": "Android",
-        "icon": "https://img.icons8.com/fluency/48/000000/android-os.png"
-    },
-    {
-        "name": "Android Studio",
-        "icon": "https://img.icons8.com/?size=100&id=04OFrkjznvcd&format=png&color=000000"
-    },
-    {
-        "name": "Kotlin",
-        "icon": "https://img.icons8.com/?size=100&id=ZoxjA0jZDdFZ&format=png&color=000000"
-    },
-    {
-        "name": "Bootstrap",
-        "icon": "https://img.icons8.com/color/48/000000/bootstrap.png"
-    },
-    {
-        "name": "HTML5",
-        "icon": "https://img.icons8.com/color/48/000000/html-5--v1.png"
-    },
-    {
-        "name": "CSS3",
-        "icon": "https://img.icons8.com/color/48/000000/css3.png"
-    },
-    {
-        "name": "JavaScript",
-        "icon": "https://img.icons8.com/color/48/000000/javascript--v1.png"
-    },
-    {
-        "name": "PHP",
-        "icon": "https://img.icons8.com/offices/48/000000/php-logo.png"
-    },
-    {
-        "name": "MongoDB",
-        "icon": "https://img.icons8.com/color/48/000000/mongodb.png"
-    },
-    {
-        "name": "MySQL",
-        "icon": "https://img.icons8.com/color/48/000000/mysql-logo.png"
-    },
-    {
-        "name": "SQLite3",
-        "icon": "https://img.icons8.com/?size=100&id=yjSayFwWHyCo&format=png&color=000000"
-    },
-    {
-        "name": "PostgreSQL",
-        "icon": "https://img.icons8.com/color/48/000000/postgreesql.png"
-    },
-    {
-        "name": "Git VCS",
-        "icon": "https://img.icons8.com/color/48/000000/git.png"
-    },
-    {
-        "name": "GitHub",
-        "icon": "https://img.icons8.com/glyph-neue/48/ffffff/github.png"
-    },
-    {
-        "name": "Data Analysis",
-        "icon": "https://img.icons8.com/?size=100&id=UXMRwP4FFCCN&format=png&color=000000"
-    },
-    {
-        "name": "Machine Learning",
-        "icon": "https://img.icons8.com/?size=100&id=62133&format=png&color=000000"
-    },
-    {
-        "name": "Artificial Intelligence",
-        "icon": "https://img.icons8.com/?size=100&id=61864&format=png&color=000000"
-    },
-    {
-        "name": "Internet of Things",
-        "icon": "https://img.icons8.com/?size=100&id=7nvXbF0nKH72&format=png&color=000000"
-    },
-    {
-        "name": "Arduino",
-        "icon": "https://img.icons8.com/?size=100&id=13444&format=png&color=000000"
-    }
+  {
+    "name": "Flutter",
+    "icon": "https://img.icons8.com/color/96/flutter.png"
+  },
+  {
+    "name": "Dart",
+    "icon": "https://img.icons8.com/color/96/dart.png"
+  },
+  {
+    "name": "Firebase",
+    "icon": "https://img.icons8.com/color/96/firebase.png"
+  },
+  {
+    "name": "Python",
+    "icon": "https://img.icons8.com/?size=100&id=13441&format=png&color=000000"
+  },
+  {
+    "name": "C++",
+    "icon": "https://img.icons8.com/?size=100&id=tmthf8xybKpa&format=png&color=000000"
+  },
+  {
+    "name": "Java",
+    "icon": "https://img.icons8.com/?size=100&id=13679&format=png&color=000000"
+  },
+  {
+    "name": "Android",
+    "icon": "https://img.icons8.com/fluency/48/000000/android-os.png"
+  },
+  {
+    "name": "Android Studio",
+    "icon": "https://img.icons8.com/?size=100&id=04OFrkjznvcd&format=png&color=000000"
+  },
+  {
+    "name": "Kotlin",
+    "icon": "https://img.icons8.com/?size=100&id=ZoxjA0jZDdFZ&format=png&color=000000"
+  },
+  {
+    "name": "Bootstrap",
+    "icon": "https://img.icons8.com/color/48/000000/bootstrap.png"
+  },
+  {
+    "name": "HTML5",
+    "icon": "https://img.icons8.com/color/48/000000/html-5--v1.png"
+  },
+  {
+    "name": "CSS3",
+    "icon": "https://img.icons8.com/color/48/000000/css3.png"
+  },
+  {
+    "name": "JavaScript",
+    "icon": "https://img.icons8.com/color/48/000000/javascript--v1.png"
+  },
+  {
+    "name": "PHP",
+    "icon": "https://img.icons8.com/offices/48/000000/php-logo.png"
+  },
+  {
+    "name": "MongoDB",
+    "icon": "https://img.icons8.com/color/48/000000/mongodb.png"
+  },
+  {
+    "name": "MySQL",
+    "icon": "https://img.icons8.com/color/48/000000/mysql-logo.png"
+  },
+  {
+    "name": "SQLite3",
+    "icon": "https://img.icons8.com/?size=100&id=yjSayFwWHyCo&format=png&color=000000"
+  },
+  {
+    "name": "PostgreSQL",
+    "icon": "https://img.icons8.com/color/48/000000/postgreesql.png"
+  },
+  {
+    "name": "Git VCS",
+    "icon": "https://img.icons8.com/color/48/000000/git.png"
+  },
+  {
+    "name": "GitHub",
+    "icon": "https://img.icons8.com/glyph-neue/48/ffffff/github.png"
+  },
+  {
+    "name": "Data Analysis",
+    "icon": "https://img.icons8.com/?size=100&id=UXMRwP4FFCCN&format=png&color=000000"
+  },
+  {
+    "name": "Machine Learning",
+    "icon": "https://img.icons8.com/?size=100&id=62133&format=png&color=000000"
+  },
+  {
+    "name": "Artificial Intelligence",
+    "icon": "https://img.icons8.com/?size=100&id=61864&format=png&color=000000"
+  },
+  {
+    "name": "Internet of Things",
+    "icon": "https://img.icons8.com/?size=100&id=7nvXbF0nKH72&format=png&color=000000"
+  },
+  {
+    "name": "Arduino",
+    "icon": "https://img.icons8.com/?size=100&id=13444&format=png&color=000000"
+  },
+  {
+    "name": "Drift (SQLite ORM)",
+    "icon": "https://img.icons8.com/fluency/96/database.png"
+  },
+  {
+    "name": "Riverpod",
+    "icon": "https://img.icons8.com/fluency/96/layers.png"
+  },
+  {
+    "name": "SAP Integration",
+    "icon": "https://img.icons8.com/color/96/sap.png"
+  }
 ]

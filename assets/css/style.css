@@ -1223,3 +1223,94 @@ form .button-area {
   top: calc(100% - 12rem);
 }
 /* scroll top ends */
+/* projects section starts */
+.projects-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 2.5rem;
+  margin-top: 4rem;
+}
+
+.project-card {
+  background: #ffffff;
+  border-radius: 1.2rem;
+  padding: 2rem;
+  border-left: 5px solid #2506ad;
+  box-shadow: 0 0.5rem 1.2rem rgba(0, 0, 0, 0.12);
+  transition: all 0.3s ease;
+}
+
+.project-card:hover {
+  transform: translateY(-8px);
+  box-shadow: 0 1rem 2rem rgba(37, 6, 173, 0.25);
+  border-left-color: #ff7b00;
+}
+
+.project-card.featured {
+  border-left-color: #ff7b00;
+}
+
+.project-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.project-header h3 {
+  font-size: 1.9rem;
+  font-weight: 700;
+  color: #020133;
+}
+
+.badge {
+  background: #e5ecfb;
+  color: #2506ad;
+  padding: 0.4rem 1.2rem;
+  border-radius: 2rem;
+  font-size: 1.2rem;
+  font-weight: 600;
+}
+
+.project-desc {
+  margin: 1.4rem 0;
+  font-size: 1.45rem;
+  font-family: "Nunito", sans-serif;
+  color: #333;
+  text-transform: none;
+}
+
+.tech-stack {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.8rem;
+  margin-bottom: 1.5rem;
+}
+
+.tech-stack span {
+  background: #f7f7f7;
+  color: #2506ad;
+  padding: 0.4rem 1.2rem;
+  border-radius: 2rem;
+  font-size: 1.1rem;
+  font-weight: 600;
+  border: 1px solid rgba(37, 6, 173, 0.15);
+}
+
+.project-links a {
+  font-size: 1.4rem;
+  font-weight: 700;
+  color: #2506ad;
+  text-decoration: none;
+  font-family: "Nunito", sans-serif;
+}
+
+.project-links a i {
+  margin-right: 0.5rem;
+}
+
+.project-links a:hover {
+  color: #ff7b00;
+}
+
+
+/* projects section ends */
