@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
@@ -31,7 +31,7 @@
     />
     <title>Portfolio | Akshai Krishna A</title>
   </head>
-  <body oncontextmenu="return false">
+  <body oncontextmenu="return false;">
     <!-- pre loader -->
     <!-- <div class="loader-container">
   <img draggable="false" src="./assets/images/preloader.gif" alt="">
@@ -354,7 +354,7 @@
           </div>
         </div>
 
-        <!-- StudentDetails -->
+        <!-- StudentDetails
         <div class="project-card">
           <div class="project-header">
             <h3>StudentDetails</h3>
@@ -377,6 +377,65 @@
             >
               <i class="fab fa-github"></i> View Code →
             </a>
+          </div>
+        </div> -->
+
+        <div class="project-card featured">
+          <div class="project-header">
+            <h3>Safe Traverse</h3>
+            <span class="badge">Embedded Systems</span>
+          </div>
+
+          <!-- NORMAL CONTENT -->
+          <div class="project-content">
+            <p class="project-desc">
+              Autonomous obstacle-avoiding robot car built using Arduino Uno,
+              ultrasonic sensing, servo-based scanning, and real-time motor
+              control.
+            </p>
+
+            <div class="tech-stack">
+              <span>Arduino Uno</span>
+              <span>Embedded C++</span>
+              <span>IoT</span>
+            </div>
+
+            <div class="project-links">
+              <a
+                href="https://github.com/Akshai-krishna-2003/SafeTraverse-Obstacle-Avoiding-Robot-Car-Using-Arduino"
+                target="_blank"
+              >
+                <i class="fab fa-github"></i> View Code
+              </a>
+
+              <button
+                type="button"
+                class="view-live-btn"
+                onclick="toggleProjectVideo(this, event)"
+              >
+                ▶ View Video
+              </button>
+            </div>
+          </div>
+
+          <!-- VIDEO CONTENT -->
+          <div class="project-video-box">
+            <div class="project-media">
+              <video controls preload="metadata">
+                <source
+                  src="assets/images/smart-move/Project-inside-house.mp4"
+                  type="video/mp4"
+                />
+              </video>
+            </div>
+
+            <button
+              type="button"
+              class="back-btn"
+              onclick="toggleProjectVideo(this, event)"
+            >
+              ← Back to Project Details
+            </button>
           </div>
         </div>
 
